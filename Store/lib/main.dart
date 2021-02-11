@@ -33,7 +33,6 @@ class StoreHome extends StatelessWidget {
     return Scaffold(
       appBar: buildAppBar(),
       body: Body(),
-      // bottomNavigationBar: MyBottomNavBar(),
     );
   }
 
